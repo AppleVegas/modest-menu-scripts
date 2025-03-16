@@ -24,6 +24,9 @@ My first modest menu script.
 
 As modest menu never really had a player list with trolling options to begin with, this script added that. 
 
+![Screenshot_18](https://github.com/user-attachments/assets/6705b14c-0c6e-4008-9bb5-e6d27b78bd38)
+
+
 ***
 ### AppleVegas's BountySuite
 
@@ -43,6 +46,7 @@ Features:
 
 It logs all players that you have happened to be in lobby with (although it is a lot more useful at logging modders). Also it logs all the modders that the script has detected and logs their player names as well.
 
+![LyfPcbC](https://github.com/user-attachments/assets/7df8dfdd-7fdd-48ec-85c5-a00589075de1)
 
 **Event Logger features:**
 - Logging to file
@@ -52,10 +56,16 @@ It logs all players that you have happened to be in lobby with (although it is a
 - Logging Player Teleportations (huge distance travelled in a small amount of time, configurable in settings)
 - Logging whenever player enabled or disabled GodMode.
 
+![V9dhySF](https://github.com/user-attachments/assets/b8717322-f966-4a2b-b380-0318a6fe95ab)
+
+
 ***
 ### AppleVegas's AutoHeal
 
 Simple auto-healing script that I wrote to prove my "threading" (actually just delayed function loop execution) works. (sleep() wasn't implemented in the API at the time)
+
+![Screenshot_19](https://github.com/user-attachments/assets/ccdafd2e-9030-4548-a027-d96ed6379c39)
+
 
 ***
 ### Rainbow Car Script
